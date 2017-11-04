@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classical-web-app/classical-web-app.iml" filepath="$PROJECT_DIR$/.idea/modules/classical-web-app/classical-web-app.iml" group="classical-web-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classical-web-app/classical-web-app_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/classical-web-app/classical-web-app_integrationTest.iml" group="classical-web-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classical-web-app/classical-web-app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/classical-web-app/classical-web-app_main.iml" group="classical-web-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classical-web-app/classical-web-app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/classical-web-app/classical-web-app_test.iml" group="classical-web-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin.iml" group="mod-domain-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin_ast.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin_ast.iml" group="mod-domain-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin_integrationTest.iml" group="mod-domain-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin_main.iml" group="mod-domain-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain-plugin/mod-domain-plugin_test.iml" group="mod-domain-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/multi-app-proj.iml" filepath="$PROJECT_DIR$/multi-app-proj.iml" />
+    </modules>
+  </component>
+</project>

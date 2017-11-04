@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="classical-web-app_integrationTest" target="1.8" />
+      <module name="classical-web-app_main" target="1.8" />
+      <module name="classical-web-app_test" target="1.8" />
+      <module name="mod-domain-plugin_ast" target="1.8" />
+      <module name="mod-domain-plugin_integrationTest" target="1.8" />
+      <module name="mod-domain-plugin_main" target="1.8" />
+      <module name="mod-domain-plugin_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
